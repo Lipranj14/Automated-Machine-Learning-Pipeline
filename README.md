@@ -1,4 +1,3 @@
-<!--
 ---
 title: AutoML Dashboard
 emoji: 🚀
@@ -9,7 +8,6 @@ sdk_version: 1.58.0
 app_file: app.py
 pinned: false
 ---
--->
 
 # AutoML Dashboard
 
@@ -19,8 +17,6 @@ pinned: false
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4%2B-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0%2B-189AB4)](https://xgboost.readthedocs.io/)
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://automl-lipranj-daharwal.streamlit.app/)
 
 **An end-to-end Automated Machine Learning web application — upload any tabular dataset and get a production-ready model with zero code.**
 
