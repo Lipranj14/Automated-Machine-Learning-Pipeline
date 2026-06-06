@@ -3,11 +3,13 @@ title: My Project Name
 emoji: 🚀
 colorFrom: blue
 colorTo: indigo
-sdk: gradio # Alternatives: streamlit, docker, or static
-sdk_version: 4.19.0 # (Optional) Specify your exact version
+sdk: gradio
+sdk_version: 4.19.0
 app_file: app.py
 pinned: false
 ---
+
+
 # AutoML Dashboard
 
 <div align="center">
