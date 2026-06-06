@@ -1,13 +1,4 @@
----
-title: AutoML Dashboard
-emoji: 🚀
-colorFrom: blue
-colorTo: indigo
-sdk: streamlit
-sdk_version: 1.58.0
-app_file: app.py
-pinned: false
----
+
 
 # AutoML Dashboard
 **An end-to-end Automated Machine Learning web application — upload any tabular dataset and get a production-ready model with zero code.**
