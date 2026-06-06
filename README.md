@@ -1,14 +1,13 @@
 ---
-title: My Project Name
+title: AutoML Dashboard
 emoji: 🚀
 colorFrom: blue
 colorTo: indigo
-sdk: gradio
-sdk_version: 6.16.0
+sdk: streamlit
+sdk_version: 1.58.0
 app_file: app.py
 pinned: false
 ---
-
 
 # AutoML Dashboard
 
