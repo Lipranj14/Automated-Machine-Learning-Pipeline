@@ -122,19 +122,7 @@ streamlit run app.py
 
 ## Deployment
 
-This app is deployed on **Streamlit Community Cloud** (free hosting for public GitHub repos).
-
-### Deploy your own instance
-
-1. Fork this repository
-2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub
-3. Click **New app**
-4. Select your forked repo, branch `main`, and main file `app.py`
-5. Click **Deploy** — live in ~2 minutes
-
-> No server setup, no Docker, no cloud account needed.
-
----
+This app is deployed on **Streamlit Community Cloud** 
 
 ## Tech Stack
 
@@ -158,23 +146,7 @@ This app is deployed on **Streamlit Community Cloud** (free hosting for public G
 
 ---
 
-## Contributing
 
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push to the branch: `git push origin feature/your-feature`
-5. Open a Pull Request
-
-Please open an issue first to discuss any significant changes.
-
----
-
-## License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
